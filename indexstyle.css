@@ -1,0 +1,23 @@
+body{
+    background-color: whitesmoke; 
+}
+.card{
+    
+    font-style: italic;
+    color: red;
+   
+   
+}
+.card1{
+   font-style: oblique;
+}
+.card2{
+    font-style: italic;
+}
+
+.ProfileImg{
+    float: center;
+    width: 300px;
+    height: 300px;
+    border-radius: 300px;
+}
